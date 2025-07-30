@@ -1,9 +1,25 @@
+# Unity-generated folders
 [Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS/IDE files
+.vs/
 *.csproj
 *.unityproj
 *.sln
 *.user
+
+# OS/system files
 .DS_Store
+Thumbs.db
+
+# Unity Version Control (jika tidak digunakan)
+.Unity/
+
+# Crash/error logs
+sysinfo.txt
